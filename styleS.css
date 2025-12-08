@@ -1,0 +1,40 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: black;
+}
+.text-white{
+    color:white;
+    font-style: italic;
+}
+.m-heading{
+    font-family:'Lucida Handwriting',cursive,sans-serif;;
+    font-weight:bold;
+    color:mediumpurple
+}
+.writing{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-weight: bold;;
+}
+.library{
+    font-style: italic;
+    font-weight: bold;
+}
+.brief{
+    font-family:'Lucida Handwriting', cursive, sans-serif;
+    font-weight:bold;
+    color:lightcoral;
+}
+.page{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-weight: bold;;
+}
+.row{
+    font-family:'Lucida Handwriting', cursive, sans-serif;
+    font-weight:bold;
+    font-style:italic;
+    color:black
+}
